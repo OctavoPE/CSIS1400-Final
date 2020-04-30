@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 // Jeanmarco Allain || CSIS-1400 || April 22, 2020
 
 import java.util.Random;
